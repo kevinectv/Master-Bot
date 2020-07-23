@@ -2,6 +2,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+[![Run on Repl.it](https://repl.it/badge/github/kevinoficial946/Master-Bot)](https://repl.it/github/kevinoficial946/Master-Bot)
+
 ### Installing the dependencies
 
 `npm i`
